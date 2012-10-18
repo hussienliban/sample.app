@@ -1,6 +1,7 @@
 require 'spec_helper'
 
 describe "StaticPages" do
+  title =
   describe "GET /static_pages" do
     describe "Home page" do
       it "should have the content 'Sample App'" do
